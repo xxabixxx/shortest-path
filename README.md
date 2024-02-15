@@ -21,9 +21,7 @@ Clone the repository:
 
 git clone https://github.com/xxabixxx/shortest-path.git
 
-Build the project:
 
-cd dijkstra-algorithm-visualization
 
 
 Use the left mouse button to select start and end nodes. The algorithm will run and visualize the shortest path between them.
