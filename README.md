@@ -1,1 +1,18 @@
 # shortest-path
+Dijkstra's Algorithm Visualization
+This project is a visualization of Dijkstra's algorithm using the SFML (Simple and Fast Multimedia Library) for graphics. It allows users to interactively select nodes and visualize the shortest path between them.
+
+Features
+
+Interactive selection of start and end nodes
+
+Visualization of Dijkstra's algorithm progress
+
+Animation of pathfinding process
+
+Graphical representation of nodes and edges
+
+Dependencies
+
+SFML library (>= 2.5.1)
+
