@@ -25,9 +25,5 @@ Build the project:
 
 cd dijkstra-algorithm-visualization
 
-g++ main.cpp -o dijkstra -lsfml-graphics -lsfml-window -lsfml-system
 
-Run the executable:
-
-./dijkstra
 Use the left mouse button to select start and end nodes. The algorithm will run and visualize the shortest path between them.
