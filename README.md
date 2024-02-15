@@ -19,7 +19,7 @@ SFML library (>= 2.5.1)
 usage 
 Clone the repository:
 
-git clone https://github.com/your-username/dijkstra-algorithm-visualization.git
+git clone https://github.com/xxabixxx/dijkstra-algorithm-visualization.git
 
 Build the project:
 
